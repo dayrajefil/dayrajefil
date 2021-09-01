@@ -2,6 +2,9 @@
 
 - 🌱 Estudando Pyhthon e Ruby on Rails
 - 😄 Pronomes: Ela/Dela
+<div>
+   <img align="right" alt="Day-gif" src="https://www.criarbanner.com.br/criargifs/a/3dde9be9542e64c25672aad227f33a0f.gif"
+</div>
 ##
  <div>
   <a href="https://github.com/DayraJefil">
@@ -11,7 +14,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Day-Ruby" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Day-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Day-gif" src="https://www.criarbanner.com.br/criargifs/a/3dde9be9542e64c25672aad227f33a0f.gif">
 </div>
   
 ##
