@@ -1,9 +1,8 @@
 <div>
-   <img align="right" alt="Day-gif" src="https://www.criarbanner.com.br/criargifs/a/3dde9be9542e64c25672aad227f33a0f.gif"
+   <img align="right" alt="Day-gif" src="https://www.criarbanner.com.br/criargifs/a/3dde9be9542e64c25672aad227f33a0f.gif">
 </div>
 
 ## Olá! Eu sou a Dayra Jefil 👋
-
 - 🌱 Estudando Pyhthon e Ruby on Rails  
    
  <div>
