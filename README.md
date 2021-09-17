@@ -4,6 +4,7 @@
 
 ## Olá! Bem-Vindo(a) ao meu Perfil 👋
 - 🌱 Estudando Pyhthon e Ruby on Rails  
+- 🌱 Estudante de Física
    
  <div>
   <a href="https://github.com/DayraJefil">
