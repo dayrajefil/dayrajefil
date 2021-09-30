@@ -1,7 +1,3 @@
-<div>
-   <img align="right" alt="Day-gif" src="https://www.criarbanner.com.br/criargifs/a/3dde9be9542e64c25672aad227f33a0f.gif">
-</div>
-
 ## Olá! Bem-Vindo(a) ao meu Perfil 👋
 - 🌱 Estudando Pyhthon e Ruby on Rails  
 - 🌱 Estudante de Física
