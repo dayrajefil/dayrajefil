@@ -13,7 +13,7 @@
 - 🌱 Estudando Pyhthon e Ruby on Rails  
 - 🧑‍🎓 Estudante de Física pela Universidade Federal do Ceará
 - 🎯 Programação, Arte, Gatos e Jogos nas horas vagas...
--  Entre em contato comigo:
+- 📱 Entre em contato comigo:
 
 <div> 
    <a href="https://www.instagram.com/jefil.dayra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
