@@ -11,7 +11,7 @@
 ##
 
 <div>
-   <img align="right" alt="Day-gif" height=220em" src="https://cdn.discordapp.com/attachments/821241887208898561/902586615904481280/Design_sem_nome.gif">
+   <img align="right" alt="Day-gif" height="200em" src="https://cdn.discordapp.com/attachments/821241887208898561/902586615904481280/Design_sem_nome.gif">
 </div>
 
 ### Sobre mim:
