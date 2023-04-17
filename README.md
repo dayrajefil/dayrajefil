@@ -18,7 +18,7 @@
 - 🌱 Desenvolvedora Full-Stack
 - 🧑‍🎓 Estudante de Física pela Universidade Federal do Ceará
 - 🎯 Ruby Python JS HTML
-- 🎯 Estudando Flutter
+- 🎯 Estudando Dart e Flutter
 - 📱 Entre em contato comigo:
 
 <div> 
