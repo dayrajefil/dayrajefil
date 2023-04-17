@@ -15,9 +15,10 @@
 </div>
 
 ### Sobre mim:
-- 🌱 Estudando Pyhthon e Ruby on Rails  
+- 🌱 Desenvolvedora Full-Stack
 - 🧑‍🎓 Estudante de Física pela Universidade Federal do Ceará
-- 🎯 Programação, Arte, Gatos e Jogos nas horas vagas...
+- 🎯 Ruby Python JS HTML
+- 🎯 Estudando Flutter
 - 📱 Entre em contato comigo:
 
 <div> 
