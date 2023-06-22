@@ -11,9 +11,13 @@
 ##
 
 ### Sobre mim:
-- 🌱 Desenvolvedora Full-Stack
-- 🎯 Ruby Python JS HTML
-- 🎯 Estudando Dart e Flutter
+- 🎓 Engenharia da Computação
+- 🌱 Full-Stack Web Developer
+- 🎨 HTML CSS
+- ⚙️ Ruby Rails JS Python
+- 💾 PostgreSQL MySQL
+- ☁️ Heroku AWS
+- 📈 SCRUM
 - 📱 Entre em contato comigo:
 
 <div> 
@@ -32,13 +36,9 @@
   <img align="center" alt="Day-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Day-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Day-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Day-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Day-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-   
-   
 </div>
-<div>
-     
 
+<div>
+   
    ![Snake animation](https://raw.githubusercontent.com/DayraJefil/DayraJefil/output/github-contribution-grid-snake.svg)
 </div>
