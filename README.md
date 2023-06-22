@@ -16,7 +16,7 @@
 - 🎨 HTML CSS
 - ⚙️ Ruby Rails JS Python
 - 💾 PostgreSQL MySQL
-- ☁️ Heroku AWS
+- ☁️ Heroku GitHub AWS
 - 📈 SCRUM
 - 📱 Entre em contato comigo:
 
