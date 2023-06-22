@@ -1,4 +1,4 @@
-## Olá! Bem-vindo(a) ao meu perfil 👋
+## Eae, bem-vindo(a) ao meu perfil 👋
 
 #### Visitas ao perfil:
 
