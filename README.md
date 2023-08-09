@@ -12,10 +12,10 @@
 
 ### Sobre mim:
 - 🎓 Engenharia da Computação
-- 🌱 Full-Stack Web Developer
+- 🌱 Full Stack Web Developer
 - 🎨 HTML CSS
 - ⚙️ Ruby Rails JS Python
-- 💾 PostgreSQL MySQL
+- 💾 PostgreSQL SQLite3
 - ☁️ Heroku GitHub AWS
 - 📈 SCRUM
 - 📱 Entre em contato comigo:
