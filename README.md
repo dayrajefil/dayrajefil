@@ -12,10 +12,11 @@
 
 ### Sobre mim:
 - 🎓 Engenharia da Computação
-- 🌱 Back End Developer
-- ⚙️ Ruby Rails JAVA JS Python
+- 🌱 Ruby Software Developer
+- ⚙️ Ruby Rails JavaScript Python
 - 💾 PostgreSQL MySQL SQLite
 - ☁️ Heroku GitHub AWS
+- 🎨 CSS Bootstrap Tailwind
 - 📈 SCRUM KANBAN
 - 📱 Entre em contato comigo:
 
@@ -29,7 +30,6 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="Day-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
    <img align="center" alt="Day-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
-   <img align="center" alt="Day-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Day-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Day-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
