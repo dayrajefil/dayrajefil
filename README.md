@@ -4,7 +4,7 @@
 
 <p align="center"> 
    <p align="center"> 
-      <img alingn="center" src="https://profile-counter.glitch.me/DayraJefil/count.svg" />
+      <img alingn="center" src="https://profile-counter.glitch.me/dayrajefil/count.svg" />
    </p>
 </p>
 
@@ -36,5 +36,5 @@
 
 <div>
    
-   ![Snake animation](https://raw.githubusercontent.com/DayraJefil/DayraJefil/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://raw.githubusercontent.com/dayrajefil/dayrajefil/output/github-contribution-grid-snake.svg)
 </div>
