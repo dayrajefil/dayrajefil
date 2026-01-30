@@ -3,7 +3,9 @@
 ### Sobre Mim
 
 🎓 Engenharia da Computação
+
 💻 Engenheira de Software com foco em backend Ruby on Rails
+
 📍 Fortaleza CE Brasil
 
 Atuo desde 2021 desenvolvendo aplicações full stack com forte foco em backend.
@@ -13,11 +15,17 @@ Atuo desde 2021 desenvolvendo aplicações full stack com forte foco em backend.
 ### Principais Competências
 
 🚀 Backend com Ruby on Rails
+
 🔎 Otimização de performance e queries SQL
+
 🧩 Refatoração e modernização de sistemas legados
+
 ⚙ Processamento assíncrono com Sidekiq
+
 🧪 Testes automatizados e TDD
+
 📊 Monitoramento e observabilidade de aplicações
+
 🐳 Ambientes Docker para desenvolvimento
 
 ---
